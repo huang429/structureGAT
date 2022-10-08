@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -std=c++11 -Wall -fno-rtti -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -fPIC -I/usr/local/llvm/include  -shared -Wl,-soname,libLLVMDDG.so -o libLLVMDDG.so CMakeFiles/LLVMDDG.dir/DDG.cpp.o 
