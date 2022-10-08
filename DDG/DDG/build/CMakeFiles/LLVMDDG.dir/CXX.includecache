@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/su/DDG-master/DDG/DDG.cpp
+llvm/Pass.h
+/home/su/DDG-master/DDG/llvm/Pass.h
+llvm/IR/Module.h
+/home/su/DDG-master/DDG/llvm/IR/Module.h
+llvm/IR/Function.h
+/home/su/DDG-master/DDG/llvm/IR/Function.h
+llvm/IR/InstrTypes.h
+/home/su/DDG-master/DDG/llvm/IR/InstrTypes.h
+llvm/IR/Instructions.h
+/home/su/DDG-master/DDG/llvm/IR/Instructions.h
+llvm/Transforms/Utils/BasicBlockUtils.h
+/home/su/DDG-master/DDG/llvm/Transforms/Utils/BasicBlockUtils.h
+llvm/Support/raw_ostream.h
+/home/su/DDG-master/DDG/llvm/Support/raw_ostream.h
+llvm/IR/IRBuilder.h
+/home/su/DDG-master/DDG/llvm/IR/IRBuilder.h
+llvm/Transforms/Scalar.h
+/home/su/DDG-master/DDG/llvm/Transforms/Scalar.h
+llvm/Analysis/CallGraph.h
+/home/su/DDG-master/DDG/llvm/Analysis/CallGraph.h
+llvm/ADT/StringRef.h
+/home/su/DDG-master/DDG/llvm/ADT/StringRef.h
+fstream
+-
+iostream
+-
+utility
+-
+string
+-
+vector
+-
+
